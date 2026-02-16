@@ -43,6 +43,15 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
+    server: {
+      watch: {
+        usePolling: true,
+        awaitWriteFinish: {
+          stabilityThreshold: 200,
+          pollInterval: 100,
+        },
+      },
+    },
   },
   image: {
     responsiveStyles: true,

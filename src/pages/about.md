@@ -3,35 +3,14 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+I’m a data scientist and product manager with 16+ years of experience, primarily across energy and finance, but more recently with big tech.
 
-![Astro Paper](public/astropaper-og.jpg)
+I was born and raised in Australia, and have had the opportunity to live and work in Singapore, London, and now call the United States home. I served as a Naval Officer and Submariner for seven years before transitioning to the corporate world. And I’ve worked for various organizations since then, including the Australian Treasury Department, Palantir, and Microsoft.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+In these roles, I’ve had the opportunity to build and lead teams of data scientists, ML engineers, and product managers — with a focus on driving innovative AI/ML solutions to generate value across several functional areas, including core finance, payments, marketing, upstream energy, and power & utilies. And that experience spans various product types too, such as those for e-commerce, marketplaces (B2B and B2C), predictive maintenance, digital twins, and more.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+I hold a Bachelor’s Degree in Finance & Economics, a Master’s in Data Science from Northwestern, Master’s in Computer Science from Georgia Tech (with a specialization in AI), and an MBA from Imperial College London. Throughout my career, I’ve always been passionate about the power of data and how it can drive informed decision-making and improved product experiences. I’m excited to continue making an impact across the field by helping organizations make better decisions, products, and overall, extract value through data.
 
-## Features
+Outside of my day-job, you’ll find me spending my spare time working on a few side projects. Including Datakick, a community-based data science consultancy and recruitment services platform, focused on reinventing the way businesses source and use data talent. DjangoMango, which offers pre-packaged Django SaaS applications, that development teams and individuals can use to quickly build and deploy highly-customizable web applications. And also Alphabots.io, a platform for traders to build and share bots they've created for trading various securities (acquired by Jaaim in 2017).
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+If you have an interesting project or idea that you want to collaborate on, please feel free to contact me at [me@db-nuggets.com](mailto:me@db-nuggets.com), or book time via [my calendar](https://cal.com/buswedg).
