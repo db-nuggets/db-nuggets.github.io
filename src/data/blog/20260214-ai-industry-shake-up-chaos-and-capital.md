@@ -7,7 +7,7 @@ slug: ai-industry-shake-up-chaos-and-capital
 featured: true
 draft: false
 tags:
-  - thoughts
+  - highlights
   - ai
 description: "A breakdown of the major shifts in the AI landscape, from massive funding rounds and public feuds to ambitious new infrastructure projects."
 ---
