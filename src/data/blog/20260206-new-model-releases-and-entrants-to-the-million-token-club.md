@@ -2,8 +2,8 @@
 author: Darryl Buswell
 pubDatetime: 2026-02-06T18:00:00Z
 modDatetime: 2026-02-06T18:00:00Z
-title: "New Model Released and Entrants to the Million Token Club"
-slug: new-releases-and-entrants-to-the-million-token-club
+title: "New Model Releases and Entrants to the Million Token Club"
+slug: new-model-releases-and-entrants-to-the-million-token-club
 featured: true
 draft: false
 tags:
